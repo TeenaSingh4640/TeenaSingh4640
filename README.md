@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.stockcake.com/public/b/0/a/b0afd8a7-63c9-40c5-acd7-bfbc4ed715cc_large/coder-at-work-stockcake.jpg" />
+  <img src="https://i.gifer.com/JXA0.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Teena</h1>
 <h3 align="center">AI & Data Science Enthusiast | Passionate about Team-Driven Innovation</h3>
